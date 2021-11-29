@@ -1,0 +1,136 @@
+a {
+  color: #11999E;
+}
+
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+
+h1 {
+  color: #66BFBF;
+  font-family: 'Sacramento', cursive;
+  font-size: 562.5%;
+}
+
+h2 {
+  color: #66BFBF;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 200%;
+}
+
+h3 {
+  line-height: 4;
+  color: #11999E;
+}
+hr{
+  border-style: dotted;
+  border-width: 5px 0 0 0;
+  width: 3%;
+  border-color: grey;
+}
+p {
+    font-family: 'Montserrat', sans-serif;
+    margin: 0;
+    line-height: 2;
+}
+span {
+  text-decoration: underline;
+}
+.bottom-container{
+  margin-bottom: 30px;
+}
+.bottom-cloud {
+  position: absolute;
+}
+.btn {
+  background: #11cdd4;
+  background-image: -webkit-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -moz-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -ms-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -o-linear-gradient(top, #11cdd4, #11999e);
+  background-image: linear-gradient(to bottom, #11cdd4, #11999e);
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  font-family: Montserrat, sans-serif;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #30e3cb;
+  background-image: -webkit-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -moz-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -ms-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -o-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: linear-gradient(to bottom, #30e3cb, #2bc4ad);
+  text-decoration: none;
+}
+.description{
+  width: 75%;
+  margin: auto;
+  line-height: 2;
+  color: #40514E;
+}
+.footer{
+  background-color: #66BFBF;
+  margin: 0;
+}
+.footer-link{
+  color: #EAF6F6;
+}
+.middle-container {
+  margin-top: 100px;
+}
+
+.me {
+  height: 200px;
+  width: 220px;
+  border-radius: 100%;
+}
+.profile{
+  width: 50%;
+  margin: auto;
+  margin-bottom: 40px;
+}
+.programmer {
+  font-size: 2.5rem;
+
+}
+.skill-img1{
+
+  border-radius: 100%;
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.skill-img2{
+
+  border-radius: 100%;
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+.skill-row{
+  text-align: left;
+  margin: 100px auto 100px auto;
+  width: 50%;
+  line-height: 2;
+}
+.top-container {
+  margin: 0;
+  background-color: #EAF6F6;
+  line-height: 2;
+  margin-bottom: 10px;
+}
+
+.top-cloud {
+  position: relative;
+  top: 50px;
+  left: 300px;
+}
